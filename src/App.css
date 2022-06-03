@@ -16,3 +16,8 @@
     color:#62B77D!important;
     background-color: #CAECDE!important;
 }
+.apexcharts-tooltip {
+    background: white;
+    color: black;
+    border: 1px solid #eeeeee ;
+  }
